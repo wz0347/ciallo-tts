@@ -6,7 +6,7 @@ let isGenerating = false;
 
 const API_CONFIG = {
     'workers-api': {
-        url: 'https://wztts01.lqx2256.workers.dev/tts1',
+        url: 'https://wztts01.wz9527.eu.org/tts',
         authToken: '123456'
     },
     'deno-api': {
